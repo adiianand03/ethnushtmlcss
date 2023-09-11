@@ -1,0 +1,37 @@
+h1{
+    color:yellow;
+    text-align: center;
+    text-transform: uppercase;
+    text-indent: 40px;
+    text-decoration: underline dotted 4px green;
+    text-shadow: 3px 5px 0px blue;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    padding-right:20px;
+    margin: 100px;
+}
+p{
+    color:yellow;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+}
+#i1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:40px;
+    font-weight: 300;
+    font-style: italic;
+
+}
+body{
+    background-color: yellow;
+    background-image: url(dhoni.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:top center;
+    background-size: cover;
+    cursor: pointer;
+}
